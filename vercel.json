@@ -1,0 +1,4 @@
+{
+    "buildCommand": "mkdir output && echo '1' >> output/index.txt",
+    "outputDirectory": "output"
+}
